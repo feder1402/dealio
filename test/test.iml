@@ -38,7 +38,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="client" scope="PROVIDED" />
+    <orderEntry type="module" module-name="ui" scope="PROVIDED" />
   </component>
 </module>
 
